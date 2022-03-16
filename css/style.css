@@ -1101,7 +1101,7 @@ p {
   .slider-area .bd-example .carousel .carousel-inner {
     background-color: #04587a; }
     .slider-area .bd-example .carousel .carousel-inner .carousel-item {
-      height: 800px; }
+      height: 500px; }
       @media only screen and (min-width: 992px) and (max-width: 1199px) {
         .slider-area .bd-example .carousel .carousel-inner .carousel-item {
           height: 600px; } }
